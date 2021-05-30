@@ -1,0 +1,5 @@
+
+set(CN_PROJECT_NAME "MoonBank-Desktop")
+set(CN_CURRENCY_DISPLAY_NAME "MoonBank")
+set(CN_CURRENCY_TICKER "$BANK")
+set(CN_VERSION 1.0.5)

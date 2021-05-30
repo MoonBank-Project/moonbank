@@ -1,0 +1,19 @@
+# This file is an example of how to add MoonBank Desktop in Applications list.
+# Edit this file and copy it to ~/.local/share/applications
+# Once copied you will be able to find MoonBank Desktop in Applications list.
+# If you are not able to find MoonBank Desktop check that Exec and Icon are correct.
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=MoonBank Desktop
+Comment=MoonBank Desktop
+# Change the Exec value to match MoonBank-Desktop path
+# example : Exec=/home/moonbank/apps/moonbank/MoonBank-Desktop
+Exec=<change-this-value>
+Terminal=false
+Type=Application
+# Change the Icon value to match moonbank icon path
+# example : Icon=/home/moonbank/apps/moonbank/icon/moonbank.png
+Icon=icon/moonbank.png
+MimeType=x-scheme-handler/moonbank-wallet;
+Categories=Office;Finance;Cryptocurrency;Banking;
